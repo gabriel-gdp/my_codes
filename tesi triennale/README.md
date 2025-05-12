@@ -3,7 +3,7 @@
 Questa repository contiene il codice e la documentazione relativi alla mia tesi triennale di laurea in Fisica.  
 
 ## 📌 Contenuto della repository  
-- **`Jet_CoAE_Definitivo.ipynb`** → Notebook Python che implementa un autoencoder convoluzionale per anomaly detection su dati di fisica delle particelle.  
+- **`AnomalyDetection_JetAdronici.ipynb`** → Notebook Python che implementa un autoencoder convoluzionale per anomaly detection su dati di fisica delle particelle.  
 - **`Intelligenza_Artificiale_e_Nuova_Fisica__Anomaly_Detection_nei_Jet_adronici.pdf`** → Testo completo della mia dissertazione.  
 
 ## 🔬 Scopo del progetto  

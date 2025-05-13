@@ -1,4 +1,4 @@
-# Classification 🔍  
+# Classification 🔍  (Work in progress...)
 
 Questa repository contiene un dataset csv e un notebook Python in cui analizzo i dati e implemento diversi modelli di **classificazione**.  
 

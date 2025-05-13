@@ -3,7 +3,7 @@
 Questa repository contiene un dataset csv e un notebook Python in cui analizzo i dati e implemento diversi modelli di **classificazione**.  
 
 ## 📌 Contenuto della repository  
-- **`dataset_012.csv`** → Contiene il dataset con esempi, features e label.   
+- **`classification.csv`** → Contiene il dataset con esempi, features e label.   
 - **`notebook`** → Contiene il codice per l'analisi e l'addestramento dei modelli.  
 
 ## 📊 Obiettivo del progetto  
